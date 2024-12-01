@@ -36,7 +36,7 @@ public class APITesting008 {
                     .log().all()
                     .post()
                 .then().log().all()
-                    .statusCode(203);
+                    .statusCode(200);
 
 
 
