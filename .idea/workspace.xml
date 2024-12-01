@@ -4,32 +4,193 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3a35a1-cb80-4079-a504-d385d79d5e57" name="Changes" comment="" />
+    <list default="true" id="ec3a35a1-cb80-4079-a504-d385d79d5e57" name="Changes" comment="Commit maven project">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasics/GET/APITesting004_GET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasics/GET/APITesting005_BDDStyleGET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasics/GET/APITesting006_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasics/GET/APITesting007_GET_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasics/POST/APITesting008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasics/POST/APITesting009_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/sampleCheck/APITest001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/sampleCheck/APITest002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/sampleCheck/APITest004_BuilderPatternDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/sampleCheck/APITesting003_NoDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-get-NonBDDStyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-get.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anildixit01&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anildixit01/ATB8xAPIAutomationPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;3e9a6a21-ce3e-46f3-81d6-51473f1185fb&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pbB4zQBfZUWJfUw1Kl6JXAUdk7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.APITest001.executor": "Run",
+    "Application.APITest002.executor": "Run",
+    "Application.APITest004_BuilderPatternDesignPattern.executor": "Run",
+    "Application.APITesting003_NoDesignPattern.executor": "Run",
+    "Application.APITesting004_GET.executor": "Run",
+    "Application.Helloworld.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.APITesting005_BDDStyleGET.test_GET_Req_NEGATIVE.executor": "Run",
+    "TestNG.APITesting005_BDDStyleGET.test_GET_Req_POSITIVE.executor": "Run",
+    "TestNG.APITesting006_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting006_NonBDDStyle.test_NonBDDStyleGET_negative.executor": "Run",
+    "TestNG.APITesting006_NonBDDStyle.test_NonBDDStyleGET_posditive.executor": "Run",
+    "TestNG.APITesting006_NonBDDStyle.test_NonBDDStyleGET_positive.executor": "Run",
+    "TestNG.APITesting007_GET_TestNG.test_GET_Request.executor": "Run",
+    "TestNG.APITesting009_NonBDDStyle.test_non_bbd_post.executor": "Run",
+    "TestNG.C:/Users/USER/IdeaProjects/ATB8xAPIAutomationPrograms/testng-get-NonBDDStyle.xml.executor": "Run",
+    "TestNG.C:/Users/USER/IdeaProjects/ATB8xAPIAutomationPrograms/testng.xml.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/ATB8xAPIAutomationPrograms",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\ATB8xAPIAutomationPrograms" />
+      <recent name="C:\Users\USER\IdeaProjects\ATB8xAPIAutomationPrograms\src\main" />
+      <recent name="C:\Users\USER\IdeaProjects\ATB8xAPIAutomationPrograms\src" />
+      <recent name="C:\Users\USER\IdeaProjects\ATB8xAPIAutomationPrograms\src\test\java\com\thetestingacademy" />
+      <recent name="C:\Users\USER\IdeaProjects\ATB8xAPIAutomationPrograms\src\main\java\com\thetestingacademy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/USER/IdeaProjects/ATB8xAPIAutomationPrograms/testng-get-NonBDDStyle.xml">
+    <configuration name="APITesting005_BDDStyleGET.test_GET_Req_NEGATIVE" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB8xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.RestAssuredBasics.GET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.RestAssuredBasics.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.RestAssuredBasics.GET.APITesting005_BDDStyleGET" />
+      <option name="METHOD_NAME" value="test_GET_Req_NEGATIVE" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting006_NonBDDStyle.test_NonBDDStyleGET_negative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB8xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.RestAssuredBasics.GET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.RestAssuredBasics.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.RestAssuredBasics.GET.APITesting006_NonBDDStyle" />
+      <option name="METHOD_NAME" value="test_NonBDDStyleGET_negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting006_NonBDDStyle.test_NonBDDStyleGET_positive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB8xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.RestAssuredBasics.GET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.RestAssuredBasics.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.RestAssuredBasics.GET.APITesting006_NonBDDStyle" />
+      <option name="METHOD_NAME" value="test_NonBDDStyleGET_positive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting009_NonBDDStyle.test_non_bbd_post" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB8xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.RestAssuredBasics.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.RestAssuredBasics.POST" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.RestAssuredBasics.POST.APITesting009_NonBDDStyle" />
+      <option name="METHOD_NAME" value="test_non_bbd_post" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/USER/IdeaProjects/ATB8xAPIAutomationPrograms/testng-get-NonBDDStyle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB8xAPIAutomationPrograms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-get-NonBDDStyle.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/USER/IdeaProjects/ATB8xAPIAutomationPrograms/testng-get-NonBDDStyle.xml" />
+        <item itemvalue="TestNG.APITesting009_NonBDDStyle.test_non_bbd_post" />
+        <item itemvalue="TestNG.APITesting006_NonBDDStyle.test_NonBDDStyleGET_negative" />
+        <item itemvalue="TestNG.APITesting006_NonBDDStyle.test_NonBDDStyleGET_positive" />
+        <item itemvalue="TestNG.APITesting005_BDDStyleGET.test_GET_Req_NEGATIVE" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +200,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733024715431</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit maven project">
+      <option name="closed" value="true" />
+      <created>1733025971207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733025971207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit maven project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit maven project" />
   </component>
 </project>
