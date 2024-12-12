@@ -3,7 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ATB8xAPIAutomationPrograms">
         <classes>
-            <class name="com.thetestingacademy.RestAssuredBasics.GET.APITesting005_BDDStyleGET">
+            <class name="com.thetestingacademy.RestAssuredBasics_02122024.GET.APITesting005_BDDStyleGET">
+
             </class>
         </classes>
     </test>

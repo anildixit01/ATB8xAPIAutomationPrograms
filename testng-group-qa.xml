@@ -2,8 +2,18 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ATB8xAPIAutomationPrograms">
+        <groups>
+            <run>
+                <include name="qa"></include>
+                <exclude name="reg"></exclude>
+            </run>
+        </groups>
+
+
+
+
         <classes>
-            <class name="com.thetestingacademy.RestAssuredBasics_02122024.GET.APITesting006_NonBDDStyle">
+            <class name="com.thetestingacademy.testNGExamples_04122024.APITesting014_TestNG_Groups">
             </class>
         </classes>
     </test>

@@ -1,9 +1,6 @@
-package com.thetestingacademy.RestAssuredBasics.GET;
+package com.thetestingacademy.RestAssuredBasics_02122024.GET;
 
 import io.qameta.allure.Description;
-import io.qameta.allure.Link;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;

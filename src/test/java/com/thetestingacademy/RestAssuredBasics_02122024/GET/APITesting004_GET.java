@@ -1,4 +1,4 @@
-package com.thetestingacademy.RestAssuredBasics.GET;
+package com.thetestingacademy.RestAssuredBasics_02122024.GET;
 
 public class APITesting004_GET {
     public void step1(){
